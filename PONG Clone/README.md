@@ -5,8 +5,6 @@ This is a Pong clone created by David Waters. It was created using the Unity eng
 All code present in this repository is open source and free to use. Proper credit must go to the creator(s) and use of this code is subject to fair and full mention of them in both the source code and any executables.
 
 ### Application Info:
-* Included in the email is a document containing screenshots of the project running.
-* Included in the email is an executable of the pong clone.
 
 ### To Run:
 * Clone the repository onto your own device

@@ -18,7 +18,7 @@ All code present in this repository is open source and free to use. Proper credi
 * Navigate to the root folder of the project you just cloned from GitHub
 * Double-click to add. Unity should pull the project up
 * The project should be playable from here
-* Or you can build an application and run that instead
+* Alternatively, you can clone the included application and simply run it instead
 
 ### To Play:
 * Main screen includes three options: Play, Options, Quit

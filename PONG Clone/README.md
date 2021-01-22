@@ -9,8 +9,16 @@ All code present in this repository is open source and free to use. Proper credi
 * Included in the email is an executable of the pong clone.
 
 ### To Run:
-* Double-click on the application to run.
-* If any trouble arises regarding getting the applcation to run, please contact me and I will assist to the best of my abilities.
+* Clone the repository onto your own device
+  * Download GitHub Desktop
+  * Navigate to clone a repository and input the correct url
+  * Clone the repository
+* Download Unity Hub from Unity.com
+* Pull up Unity Hub and in the Projects tab, select Add
+* Navigate to the root folder of the project you just cloned from GitHub
+* Double-click to add. Unity should pull the project up
+* The project should be playable from here
+* Or you can build an application and run that instead
 
 ### To Play:
 * Main screen includes three options: Play, Options, Quit

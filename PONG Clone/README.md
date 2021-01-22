@@ -17,6 +17,9 @@ All code present in this repository is open source and free to use. Proper credi
 * Double-click to add. Unity should pull the project up
 * The project should be playable from here
 * Alternatively, you can clone the included application and simply run it instead
+  * In the root folder of this repository, there is an executable application of the pong program
+  * Clone and download the application
+  * Run the program and enjoy
 
 ### To Play:
 * Main screen includes three options: Play, Options, Quit
